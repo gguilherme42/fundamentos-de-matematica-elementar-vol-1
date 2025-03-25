@@ -1,2 +1,4 @@
-# fundamentos-de-matematica-elementar-vol-1
-Exercícios do livro de Fundamentos de Matemática Elementar vol. 1. 
+# Fundamentos de Matemática Elementar 1: Conjunto e funções. 
+Exercícios do livro de Fundamentos de Matemática Elementar vol. 1.
+
+Referência: IEZZI, Gelson. Fundamentos de matemática elementar, 1: conjuntos, funções. 9 ed. São Paulo, Atual, 2013.
